@@ -5,7 +5,7 @@ export function Footer() {
         <p className="font-display text-xl font-black uppercase tracking-[0.08em] text-white">
           <span className="text-vault-magenta">NEON</span>VAULT
         </p>
-        <p>© 2026 NEONVAULT. AI-crafted collectibles and creator drops.</p>
+        <p>Created by Mutlu Kurt. Released under the MIT License.</p>
         <div className="ui-type flex flex-wrap justify-center gap-2 font-bold">
           <a className="rounded-2xl px-3 py-2 transition hover:bg-white/10 hover:text-vault-cyan" href="#home">
             Home
